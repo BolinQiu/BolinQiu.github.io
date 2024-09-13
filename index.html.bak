@@ -26,32 +26,30 @@
               <tr style="padding:0px">
                 <td style="padding:2.5%;width:63%;vertical-align:middle">
                   <p style="text-align:center">
-                    <name>Bolin Qiu</name>
-                    <!-- 个人的基本信息，待完善 -->
+                    <name>Fang Kong</name>
                   </p>
-                  <p>I am an Undergraduate Student majoring in <a href="https://infosec.sjtu.edu.cn/" target="_blank">Cyber Security</a> at the <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a> (SJTU). 
+                  <p>I am an Assistant Professor in <a href="https://stat-ds.sustech.edu.cn/" target="_blank">the Department of Statistics and Data Science</a> at the <a href="https://www.sustech.edu.cn/" target="_blank">Southern University of Science and Technology</a> (SUSTech). 
                   </p>
 
-                  <!-- <p>I obtained my PhD degree from <a href="http://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong
+                  <p>I obtained my PhD degree from <a href="http://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong
                       University</a> under the supervision of <a href="https://shuaili8.github.io"
                       target="_blank">Prof. Shuai Li</a>. During my PhD, I received the Baidu Scholarship for 2023 (only 10 receipts worldwide). Before that, I obtained my bachelor's
                       degree in Software engineering from Shandong University (1/318), and worked as a research intern at the Chinese University of Hong Kong, Tencent Wechat, Microsoft Research Asia, and Alibaba Damo Academy.  
-                  </p> -->
+                  </p>
                   <p>
-                    My current research interests focus on the theoretical foundations of machine learning, as well as the application of machine learning techniques to Boolean SAT, cryptography, and graph learning algorithms.
-                  </p> 
+                    I am broadly interested in developing theoretically guaranteed algorithms for sequential decision-making problems, with a particular focus on multi-armed bandits and reinforcement learning, as well as their applications in online experimentation and recommendation systems. Recently, I have also been exploring the intersection of online learning and mechanism design.
+                  </p>
 
                   
 
 
                   <p style="text-align:center">
-                    <a href="mailto:Boring123@sjtu.edu.cn" target="_blank">Email</a> &nbsp/&nbsp
-                    <!-- 个人的学术网址，待补充-->
-                    <!-- <a href="FangKong_CV.pdf" target="_blank">CV</a> &nbsp/&nbsp -->
-                    <!-- <a href="https://scholar.google.com/citations?user=q1Z41BQAAAAJ&hl=en" -->
-                      <!-- target="_blank">GoogleScholar</a>&nbsp/&nbsp -->
-                    <!-- <a href="https://dblp.org/pid/48/7676-2.html" target="_blank">DBLP</a>&nbsp/&nbsp -->
-                    <a href="https://github.com/BolinQiu" target="_blank">GitHub</a>
+                    <a href="mailto:kongf@sustech.edu.cn" target="_blank">Email</a> &nbsp/&nbsp
+                    <a href="FangKong_CV.pdf" target="_blank">CV</a> &nbsp/&nbsp
+                    <a href="https://scholar.google.com/citations?user=q1Z41BQAAAAJ&hl=en"
+                      target="_blank">GoogleScholar</a>&nbsp/&nbsp
+                    <a href="https://dblp.org/pid/48/7676-2.html" target="_blank">DBLP</a>&nbsp/&nbsp
+                    <a href="https://github.com/fangkongx" target="_blank">GitHub</a>
                   </p>
                 </td>
                 <td style="padding:2.5%;width:40%;max-width:40%">
@@ -117,14 +115,13 @@
             
 
             <tbody>
-              <!-- 个人声明等信息，表示目前的需求 -->
-              <!-- <tr>
+              <tr>
                 <td style="padding:20px;width:100%;vertical-align:middle">
                   <p>
                     I am looking for Ph.D. and Master's students for the Fall 2025 intake. I am always looking for visiting students, RAs, and postdocs. Please contact me if you are interested. 
                   </p>
                 </td>
-              </tr> -->
+              </tr>
               
 
               <tr>
@@ -137,7 +134,6 @@
 
 
           <!-- <heading>Publications</heading> -->
-          <!--论文发表情况，待完善-->
           <table
             style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
@@ -478,7 +474,6 @@
   </table>
   <!-- <heading>Internships</heading> -->
   <table width="100%" align="center" border="0" cellpadding="20">
-    <!-- 个人的实习和研究经历，待完善 -->
     <tbody>
       <!-- <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()" >
 <td style="padding:0px 5px 0px 20px;width:85%;vertical-align:middle">
@@ -539,7 +534,6 @@ Research Assistant of Prof. John C.S. Lui at Chinese University of Hong Kong (CU
     </tbody>
   </table>
   <table width="100%" align="center" border="0" cellpadding="20">
-    <!-- 个人获奖情况，待完善 -->
     <tbody>
       <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()">
         <td style="padding:0px 5px 0px 20px;width:85%;vertical-align:middle">
