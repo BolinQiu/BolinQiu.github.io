@@ -1,2 +1,0 @@
-# Readme
-BolinQiu.github.io

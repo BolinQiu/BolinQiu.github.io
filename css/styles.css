@@ -1,0 +1,110 @@
+/* styles.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #ececec;
+    padding-bottom: 20px;
+}
+
+
+.profile-pic {
+    width: 160px;
+    height: 240px;
+    border-radius: 5%;
+    margin-right: 20px;
+}
+
+.basic-info {
+    flex: 1;
+}
+
+.basic-info h1 {
+    margin: 0;
+    color: #4a90e2;
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.section h2 {
+    border-bottom: 2px solid #ececec;
+    padding-bottom: 10px;
+    color: #4a4a4a;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #4a90e2;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #357ab7;
+}
+
+.link {
+    color: #4a90e2;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: #357ab7;
+}
+
+
+
+
+.research-item {
+    display: flex;
+    justify-content: space-between; /* 让内容和时间显示在两端 */
+    margin-bottom: 15px;
+}
+
+.research-info {
+    flex: 1; /* 研究项目信息占据剩余宽度 */
+}
+
+.research-time {
+    font-size: 0.9em;
+    color: #777; /* 时间信息颜色更浅一些 */
+    text-align: right; /* 向右对齐 */
+}
