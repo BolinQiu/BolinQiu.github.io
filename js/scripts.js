@@ -25,11 +25,11 @@ function addSkill() {
 
 // Function to handle navigation to books page
 function navigateToBooks() {
-    window.location.href = 'books.html'; // Navigate to books.html page
+    window.location.href = 'Lectures.html'; // Navigate to books.html page
 }
 
 // Attach click event to "Reading" link
 window.onload = function() {
     renderSkills(); // Initial rendering of skills
-    document.getElementById('reading').onclick = navigateToBooks; // Attach click event
+    document.getElementById('Lecture Notes').onclick = navigateToBooks; // Attach click event
 };

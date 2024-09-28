@@ -90,21 +90,3 @@ button:hover {
     color: #357ab7;
 }
 
-
-
-
-.research-item {
-    display: flex;
-    justify-content: space-between; /* 让内容和时间显示在两端 */
-    margin-bottom: 15px;
-}
-
-.research-info {
-    flex: 1; /* 研究项目信息占据剩余宽度 */
-}
-
-.research-time {
-    font-size: 0.9em;
-    color: #777; /* 时间信息颜色更浅一些 */
-    text-align: right; /* 向右对齐 */
-}
