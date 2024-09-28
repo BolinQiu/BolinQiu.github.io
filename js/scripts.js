@@ -14,15 +14,6 @@ function renderSkills() {
     });
 }
 
-// Function to add a new skill
-function addSkill() {
-    const newSkill = prompt("Enter a new skill:");
-    if (newSkill) {
-        skills.push(newSkill);
-        renderSkills(); // Re-render the skills list
-    }
-}
-
 // Function to handle navigation to books page
 function navigateToBooks() {
     window.location.href = 'Lectures.html'; // Navigate to books.html page
