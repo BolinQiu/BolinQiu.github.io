@@ -31,5 +31,5 @@ function navigateToBooks() {
 // Attach click event to "Reading" link
 window.onload = function() {
     renderSkills(); // Initial rendering of skills
-    document.getElementById('Lecture Notes').onclick = navigateToBooks; // Attach click event
+    document.getElementById('Notes').onclick = navigateToBooks; // Attach click event
 };
