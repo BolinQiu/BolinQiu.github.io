@@ -1,1 +1,1 @@
-This is my personal website. I built it using GPT and references from the internet.
+This is my personal website. Feel free to use it as template.
